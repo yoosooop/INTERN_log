@@ -1,4 +1,4 @@
-# q-sol_intern
+# INTERN_log
 ## (주)퀀텀솔루션
 
 ### 인턴 기간
